@@ -1,10 +1,6 @@
 # College-Advisor-AI
 An AI-based educational platform that provides personalized college and career recommendations using web technologies, machine learning, and automated aptitude analysis.
 
- About the Project
-
-College Advisor AI is a web-based application that provides personalized career guidance to students. It uses aptitude analysis and AI-based prediction to recommend suitable career fields and courses.
-
  Features
 
 - User login with OTP verification
